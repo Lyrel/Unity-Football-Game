@@ -17,9 +17,9 @@ To do:
 7. Black holes mofing on field. If player steps into one, the game is over.
 
 Known issues:
-Issue 1. Non-stop collision annimation. Not sure what issue is, probably the animation itself is buggy.
-Solution 1. Try with other animation.
-Issue 2. Player is turning by 90 degrees only. No smooth angles.
-Solution 2. Change transform.Translate with AddForce method. See how it goes.
-Issue 3. Camera stayes always behind player.
-Solution 3: Not sure yet how to solve it.
+1. Issue: Non-stop collision annimation. Not sure what issue is, probably the animation itself is buggy.
+Solution: Try with other animation.
+2. Issue: Player is turning by 90 degrees only. No smooth angles.
+Solution: Change transform.Translate with AddForce method. See how it goes.
+3. Issue: Camera stayes always behind player.
+Solution: Not sure yet how to solve it.
