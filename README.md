@@ -1,5 +1,5 @@
 # Unity-Projects
-This is my first own Unity project. Here I am applying what I have learned. 
+This is my first own Unity project. 
 
 Completed:
 1. Basic player movement
